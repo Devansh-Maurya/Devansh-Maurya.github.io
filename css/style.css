@@ -58,6 +58,10 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
+.a-unstyled {
+  color: #fff;
+}
+
 p {
   margin-bottom: 30px;
 }
